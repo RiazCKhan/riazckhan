@@ -15,11 +15,12 @@ I believe the User is at the heart of Technology. The goal is to provide the bes
     text-align: center;
     /* border=solid */
     /* border-bottom= */
-
   }
 </style>
 
-<h2 class="github-stats">testing</h2>
+<h2 class="github-stats">Connect with me Section</h2>
+
+<h2 class="github-stats">Language / Tools Section?</h2>
 
 <h2 align="center"> GitHub Statistics </h2>
 <div align="center">
@@ -32,9 +33,7 @@ I believe the User is at the heart of Technology. The goal is to provide the bes
 
 <!--
 **RiazCKhan/riazckhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
