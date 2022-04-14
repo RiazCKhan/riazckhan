@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! 👋
+I believe the User is at the heart of Technology. The goal is to provide the best User experience. As a Jr. Full Stack Web Developer what I enjoy most about Web Development is the ability to establish connections, identify feedback loops, and implement concrete solutions. As a transitioning Counsellor, Web Development enables me to support and enrich communities across the globe.
 
 <!--
 **RiazCKhan/riazckhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
