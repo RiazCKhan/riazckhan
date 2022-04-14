@@ -10,9 +10,10 @@ I believe the User is at the heart of Technology. The goal is to provide the bes
 - 📎  Resume
 - 💼  Portfolio
 
+
 <style>
   .github-stats{
-    text-align: center;
+    align: center;
     /* border=solid */
     /* border-bottom= */
   }
