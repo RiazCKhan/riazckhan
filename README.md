@@ -5,6 +5,19 @@ I believe the User is at the heart of Technology. The goal is to provide the bes
 
 - 🚀 I’m in the process of launching React Fitness Lite & Schnoodle
 
+
+<style>
+  .github-stats{
+    text-align: center;
+    /* border=solid */
+    /* border-bottom= */
+
+  }
+</style>
+
+<h2 class="github-stats">testing</h2>
+
+<h2 align="center"> GitHub Statistics </h2>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riazckhan&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
