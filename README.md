@@ -7,8 +7,8 @@ I believe the User is at the heart of Technology. The goal is to provide the bes
 - 🌱  I’m currently learning ...
 - 🔨  I’m looking for help with breaking into Tech Industry
 - 💡  Fun fact: ...
-- 📎  Resume
-- 💼  Portfolio
+- 📎  [Resume](https://resume.creddle.io/resume/izh3ulidt0f)
+- 💼  [Portfolio](https://riazckhan.github.io/)
 
 <h2>Connect with me Section</h2>
 
