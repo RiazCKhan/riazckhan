@@ -10,18 +10,9 @@ I believe the User is at the heart of Technology. The goal is to provide the bes
 - 📎  Resume
 - 💼  Portfolio
 
+<h2>Connect with me Section</h2>
 
-<style>
-  .github-stats{
-    align=center;
-    /* border=solid */
-    /* border-bottom= */
-  }
-</style>
-
-<h2 class="github-stats">Connect with me Section</h2>
-
-<h2 class="github-stats">Language / Tools Section?</h2>
+<h2>Language / Tools Section?</h2>
 
 <h2 align="center"> GitHub Statistics </h2>
 <div align="center">
