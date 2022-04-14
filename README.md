@@ -5,10 +5,13 @@ I believe the User is at the heart of Technology. The goal is to provide the bes
 
 - 🚀 I’m in the process of launching React Fitness Lite & Schnoodle
 
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riazckhan&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazckhan&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!--
 **RiazCKhan/riazckhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
