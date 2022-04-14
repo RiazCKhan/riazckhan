@@ -5,7 +5,7 @@ I believe the User is at the heart of Technology. The goal is to provide the bes
 
 - 🚀  I’m in the process of launching React Fitness Lite & Schnoodle
 - 🌱  I’m currently learning ...
-- 🔨  I’m looking for help with breaking into Tech Industry
+- 🔨  I’m looking for support with breaking into Tech Industry
 - 💡  Fun fact: ...
 - 📎  [Resume](https://resume.creddle.io/resume/izh3ulidt0f)
 - 💼  [Portfolio](https://riazckhan.github.io/)
