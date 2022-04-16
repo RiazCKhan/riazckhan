@@ -1,10 +1,14 @@
 ### Hello! 👋
 :warning: Under Construction :warning:
 
+<div align="center">
+<img src="./web-banner.jpeg" />
+</div>
+
 I believe the User is at the heart of Technology. The goal is to provide the best User experience. As a Jr. Full Stack Web Developer what I enjoy most about Web Development is the ability to establish connections, identify feedback loops, and implement concrete solutions. As a transitioning Counsellor, Web Development enables me to support and enrich communities across the globe.
 
 - 🚀  I’m in the process of launching React Fitness Lite & Schnoodle
-- 🌱  I’m currently learning ...
+<!-- - 🌱  I’m currently learning ... -->
 - 🔨  I’m looking for support with breaking into Tech Industry
 - 🧨  Fun fact: I've been bungy jumping and sky diving!
 - 📎  [Resume](https://resume.creddle.io/resume/izh3ulidt0f)
