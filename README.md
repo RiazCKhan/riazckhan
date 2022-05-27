@@ -1,6 +1,6 @@
 ![web-banner](web-banner.jpeg)
 
-I believe the User is at the heart of Technology. The goal is to provide the best User experience. As a Jr. Full Stack Web Developer what I enjoy most about Web Development is the ability to establish connections, identify feedback loops, and implement concrete solutions. As a transitioning Counsellor, Web Development enables me to support and enrich communities across the globe.
+I am a Full Stack Web Developer who understands that the user comes first. As a former counsellor, user-centric design and best practices are at the heart of everything I create. What I enjoy most about web development is my ability to develop tangible solutions that enrich communities across the globe.
 
 - 🚀  I’m in the process of launching React Fitness Lite & Schnoodle
 - 🌱  I’m currently learning Typescript
