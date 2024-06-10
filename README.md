@@ -1,11 +1,9 @@
-### Full Stack Developer
+## Full Stack Developer
 
-- 🚀  I’m in the process of launching React Fitness Lite & Schnoodle
-- 🌱  I’m currently learning Typescript
-- 🔨  I’m looking for support with breaking into Tech Industry
-- 🧨  Fun fact: I've been bungy jumping and sky diving!
-- 📎  [Resume](https://resume.creddle.io/resume/izh3ulidt0f)
-- 💼  [Portfolio](https://riazckhan.github.io/)
+- 🌱  I’m currently learning Python
+- 🔨  I’m interested in Django, Flask, and FastAPI
+- 📎  [Resume](https://resume.creddle.io/resume/1qcmiaz8toq)
+- 💼  Portfolio: under construction...
 
 <br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
