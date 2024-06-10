@@ -1,4 +1,4 @@
-## Full Stack Developer
+## Software Developer
 
 - 🌱  I’m currently learning Python
 - 🔨  I’m interested in Django, Flask, and FastAPI
