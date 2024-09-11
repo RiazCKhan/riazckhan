@@ -1,9 +1,7 @@
 ## Software Developer
 
-- 🌱  I’m currently learning Python
-- 🔨  I’m interested in Django, Flask, and FastAPI
-- 📎  [Resume](https://resume.creddle.io/resume/1qcmiaz8toq)
-- 💼  Portfolio: under construction...
+- 🌱 I’m currently learning Python
+- 💼 Portfolio: under construction...
 
 <br>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
